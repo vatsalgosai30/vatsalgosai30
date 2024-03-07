@@ -2,7 +2,7 @@
 
 ## I'm Software Developer
 
--   📫 How to reach me: [Mail](gosaivatsal30@gmail.com) [Linkdin](www.linkedin.com/in/vatsal-gosai)
+-   📫 How to reach me: [Mail](mailto:gosaivatsal30@gmail.com) [Linkdin](www.linkedin.com/in/vatsal-gosai)
 
 ### Languages and Tools:
 
