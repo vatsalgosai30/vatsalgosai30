@@ -5,7 +5,7 @@
 ## 📫 How to reach me: 
 
   [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:gosaivatsal30@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vatsal-gosai)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-gosai/)
 
 
 ## Technologies and Tools:
