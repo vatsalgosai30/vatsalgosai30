@@ -3,10 +3,9 @@
 ## I'm Software Developer
 
 ## 📫 How to reach me: 
-- Mail
-  [Email](mailto:gosaivatsal30@gmail.com)
--  LinkedIn
-<a href="https://linkedin.com/in/www.linkedin.com/in/vatsal-gosai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vatsal-gosai" height="20" width="30" /></a>
+
+  [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:gosaivatsal30@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vatsal-gosai)
 
 
 ## Technologies and Tools:
